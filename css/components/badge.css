@@ -19,3 +19,9 @@
   right: -5px;
   top: -7px;
 }
+
+.alert {
+  color: tomato;
+
+  margin: 2px;
+}
